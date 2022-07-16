@@ -1,0 +1,25 @@
+body{
+  background-color:#0F0E0E;
+  position: relative;
+}
+h1{
+  font-size: 5rem;
+  text-align: center;
+  font-family: 'Merriweather';
+  color:#2EB086;
+}
+.player1{
+position: absolute;
+left:370px;
+top:auto;
+}
+.player2{
+position: absolute;
+right:370px;
+top:auto;
+}
+
+h2{
+  font-family:'Merriweather';
+  color:#CEE5D0;
+}
